@@ -1,4 +1,4 @@
-# Decision-Tree
+
 # 🌳 Decision Tree Classification
 
 This repository contains a Jupyter Notebook implementation of a **Decision Tree Classifier** for a binary classification problem. It includes data preprocessing, model training, evaluation, and performance metrics.
